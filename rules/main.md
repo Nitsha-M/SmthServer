@@ -1,5 +1,5 @@
 <!-- Заголовок секции -->
-<SectionBlock number="3" type="chapter-title" name="3. Правила игры">
+<SectionBlock number="3" type="chapter-title" name="Правила игры">
 Правила игры на сервере
 </SectionBlock>
 
