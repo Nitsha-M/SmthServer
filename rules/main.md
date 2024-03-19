@@ -22,7 +22,8 @@
 </Exception>
 </CustomBlock>
 <!-- Наказания -->
-<CustomBlock type="rules__item-punishment">* Бан от 1 дня
+<CustomBlock type="rules__item-punishment">
+- Бан от 1 дня
 </CustomBlock>
 </RuleContent>
 </RuleItem>
