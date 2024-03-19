@@ -1,7 +1,5 @@
-### Правила игры на сервере
-
 <CustomBlock type="chapter-title">
-### Правила игры на сервере
+Правила игры на сервере
 </CustomBlock>
 
 <CustomBlock type="note">
