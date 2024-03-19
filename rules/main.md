@@ -9,7 +9,7 @@
 Запрещено видоизменять территорию общественных объектов и/или занятую игроком без согласования со строителями объекта, и любыми другими способами препятствовать строительству общественных объектов или на территории, занятой игроком.
 </RuleTitle>
 
-<CustomBlock type="rules__item-content">
+<RuleContent type="rules__item-content">
 <!-- Примечания -->
 <CustomBlock type="rules__item-info">
 - Частичный или полный снос чужих построек без разрешения владельца.
@@ -19,14 +19,14 @@
 - Вымогательство ресурсов.
 - Распространяется на все основные миры выживания, а также выделенные Билд-сервера.
 <!-- Исключения -->
-    <CustomBlock type="rules__item-exeception">
+    <Exception type="rules__item-exeception">
     Исключение: Ивент-миры с анархией или PVP-ивенты
-    </CustomBlock>
+    </Exception>
 </CustomBlock>
 <!-- Наказания -->
 <CustomBlock type="rules__item-punishment">
 -Бан от 1 дня
 </CustomBlock>
-</CustomBlock>
+</RuleContent>
 
 </CustomBlock>
