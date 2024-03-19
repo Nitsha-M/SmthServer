@@ -4,7 +4,7 @@
 </SectionBlock>
 
 <!-- Один айтем правил -->
-<CustomBlock type="rules__item">
+<RuleItem type="rules__item">
 <RuleTitle type="rules__item-title">
 Запрещено видоизменять территорию общественных объектов и/или занятую игроком без согласования со строителями объекта, и любыми другими способами препятствовать строительству общественных объектов или на территории, занятой игроком.
 </RuleTitle>
@@ -29,4 +29,4 @@
 </CustomBlock>
 </RuleContent>
 
-</CustomBlock>
+</RuleItem>
