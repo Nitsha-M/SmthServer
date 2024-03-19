@@ -1,5 +1,5 @@
 <!-- Заголовок секции -->
-<CustomBlock type="chapter-title">
+<CustomBlock type="chapter-title" name="3. Правила игры">
 Правила игры на сервере
 </CustomBlock>
 
