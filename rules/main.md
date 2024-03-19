@@ -1,7 +1,7 @@
 <!-- Заголовок секции -->
-<CustomBlock type="chapter-title" name="3. Правила игры">
+<SectionBlock type="chapter-title" name="3. Правила игры">
 Правила игры на сервере
-</CustomBlock>
+</SectionBlock>
 
 <!-- Один айтем правил -->
 <CustomBlock type="rules__item">
