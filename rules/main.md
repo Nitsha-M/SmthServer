@@ -2,13 +2,11 @@
 <SectionBlock number="3" type="chapter-title" name="Правила игры">
 Правила игры на сервере
 </SectionBlock>
-
 <!-- Один айтем правил -->
 <RuleItem type="rules__item">
 <RuleTitle type="rules__item-title">
 Запрещено видоизменять территорию общественных объектов и/или занятую игроком без согласования со строителями объекта, и любыми другими способами препятствовать строительству общественных объектов или на территории, занятой игроком.
 </RuleTitle>
-
 <RuleContent type="rules__item-content">
 <!-- Примечания -->
 <CustomBlock type="rules__item-info">
@@ -28,8 +26,4 @@
 * Бан от 1 дня
 </CustomBlock>
 </RuleContent>
-
 </RuleItem>
-
-* проба
-- проба
