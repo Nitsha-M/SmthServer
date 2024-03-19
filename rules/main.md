@@ -1,8 +1,106 @@
-<!-- Заголовок секции -->
+<SectionBlock number="1" type="chapter-title" name="Термины">
+Термины и определения, используемые в Правилах
+</SectionBlock>
+
+<RuleItem type="rules__item" order="1">
+<RuleTitle type="rules__item-title">
+Пользователь (также Игрок) — физическое лицо, осуществившее регистрацию и получившее доступ к Сервису и/или Игровому серверу посредством оформления услуги Подписки в соответствии с действующим Пользовательским Соглашением, размещенным по адресу: [https://shield.land/legal-info/terms_of_service/](https://shield.land/legal-info/terms_of_service/).
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="2">
+<RuleTitle type="rules__item-title">
+Бан — один из способов ограничения действий пользователя в случае нарушения текущих Правил или Соглашения, заключающийся во временном или бессрочном приостановлении доступа к Игровому серверу по Подписке.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="3">
+<RuleTitle type="rules__item-title">
+Мут — один из способов ограничения действий пользователя в случае нарушения текущих Правил или Соглашения, заключающийся во временном или бессрочном приостановлении функции голосового и текстового общения на Игровом сервере.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="4">
+<RuleTitle type="rules__item-title">
+Гриферство — порча игрового процесса Пользователей без всякой пользы для себя или с заведомо негативными намерениями. Такое поведение включает в себя любые способы расстроить других игроков, домогательство и другие действия, проявляющиеся в убийстве игровых персонажей, ограничении доступа к ресурсам в игре, троллинге в игровом чате и тому подобном.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="5">
+<RuleTitle type="rules__item-title">
+PvP (с англ. — «игрок против игрока») — вариант интерактивного конфликта между несколькими Пользователями, происходящий в игровом мире между двумя или более персонажами, управляемыми игроками-людьми.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="6">
+<RuleTitle type="rules__item-title">
+Warn (с англ. — предупреждение, варн) — способ предупреждения Пользователя о несерьезном и/или первом нарушении игровых Правил, не ведущее к более серьезным наказаниям в случае исправления ситуации.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="6.1">
+<RuleTitle type="rules__item-title">
+Если предупреждение предполагает исправление нарушения, у игрока есть 3 дня, чтобы выполнить указание Администрации.
+</RuleTitle>
+<RuleContent type="rules__item-content">
+<!-- Примечания -->
+<CustomBlock type="rules__item-info">
+- Например: "Восстанови блок на координатах ..."
+- По истечении трех дней игрок может быть забанен за игнорирование варна, если не выполнил указание, а предупреждение останется в истории. Если указание выполнено, нужно сообщить об этом представителю модерации или администрации, который выдал варн. В этом случае варн снимается и не влияет на историю нарушений, за исключением многоразового получения предупреждений.
+</CustomBlock>
+</RuleContent>
+</RuleItem>
+
+<RuleItem type="rules__item" order="6.2">
+<RuleTitle type="rules__item-title">
+Если варн не предполагает исправление, явно указанное в причине предупреждения, то он остается в истории на 7 дней.
+</RuleTitle>
+<RuleContent type="rules__item-content">
+<!-- Примечания -->
+<CustomBlock type="rules__item-info">
+- Если в течение этого времени в сумме игрок получит 3 варна, он будет забанен на сутки автоматически. При получении четвертого - бан на 7 дней.
+</CustomBlock>
+</RuleContent>
+</RuleItem>
+
+<SectionBlock number="2" type="chapter-title" name="Основные положения">
+Основные положения
+</SectionBlock>
+
+<RuleItem type="rules__item" order="1">
+<RuleTitle type="rules__item-title">
+Администрация не обязана откатывать постройки или спасать игроков, а также возвращать их вещи.
+</RuleTitle>
+<RuleContent type="rules__item-content">
+<!-- Примечания -->
+<CustomBlock type="rules__item-info">
+- Исключение — случаи, связанные с ошибками сервера или гриферством;
+</CustomBlock>
+</RuleContent>
+</RuleItem>
+
+<RuleItem type="rules__item" order="2">
+<RuleTitle type="rules__item-title">
+Администрация имеет право выдать наказание на срок, отличающийся от указанного в данных правилах, в зависимости от тяжести нарушений, а также по причине, отличающейся от правил.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="3">
+<RuleTitle type="rules__item-title">
+Человек, скрывающий/утаивающий факт нарушения правил кем-либо, в равной мере считается соучастником нарушителя и несет такое же наказание.
+</RuleTitle>
+</RuleItem>
+
+<RuleItem type="rules__item" order="4">
+<RuleTitle type="rules__item-title">
+Незнание правил не освобождает от ответственности.
+</RuleTitle>
+</RuleItem>
+
 <SectionBlock number="3" type="chapter-title" name="Правила игры">
 Правила игры на сервере
 </SectionBlock>
-<!-- Один айтем правил -->
+
 <RuleItem type="rules__item" order="1">
 <RuleTitle type="rules__item-title">
 Запрещены любые проявления гриферства
@@ -105,7 +203,7 @@
 </RuleTitle>
 <RuleContent type="rules__item-content">
 <!-- Наказания -->
-<CustomBlock type="rules__item-punishment full-sized">
+<CustomBlock type="rules__item-punishment">
 - Перманентный бан.
 </CustomBlock>
 </RuleContent>
