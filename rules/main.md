@@ -104,12 +104,8 @@
 Пользователям запрещены покупка и продажа любых внутриигровых ресурсов/услуг/территорий, а также аккаунтов за реальные деньги.
 </RuleTitle>
 <RuleContent type="rules__item-content">
-<!-- Примечания -->
-<CustomBlock type="rules__item-info">
-
-</CustomBlock>
 <!-- Наказания -->
-<CustomBlock type="rules__item-punishment">
+<CustomBlock type="rules__item-punishment full-sized">
 - Перманентный бан.
 </CustomBlock>
 </RuleContent>
