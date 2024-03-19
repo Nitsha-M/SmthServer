@@ -19,14 +19,17 @@
 - Вымогательство ресурсов.
 - Распространяется на все основные миры выживания, а также выделенные Билд-сервера.
 <!-- Исключения -->
-    <Exception type="rules__item-exeception">
-    Исключение: Ивент-миры с анархией или PVP-ивенты
-    </Exception>
+<Exception type="rules__item-exeception">
+Исключение: Ивент-миры с анархией или PVP-ивенты
+</Exception>
 </CustomBlock>
 <!-- Наказания -->
 <CustomBlock type="rules__item-punishment">
-- Бан от 1 дня
+* Бан от 1 дня
 </CustomBlock>
 </RuleContent>
 
 </RuleItem>
+
+* проба
+- проба
